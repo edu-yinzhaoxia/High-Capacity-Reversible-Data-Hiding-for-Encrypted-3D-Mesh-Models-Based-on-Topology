@@ -1,0 +1,3 @@
+mushroom.off
+m             capacity              hd               snr
+5          22.539823         8.124038e-06          102.257441
